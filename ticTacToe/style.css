@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+}
+
+.space{
+    background-color: #c2c0ba;
+    margin: 2.5px;
+    height: 10vh;
+    width: 10vh;
+}

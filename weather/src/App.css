@@ -1,0 +1,32 @@
+.main {
+  height: 99vh;
+  width: 99vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.result{
+  height: 6vh;
+  width: 4vw;
+  left: 20px;
+}
+
+.input{
+  background-color: #d1d1d1;
+  border-radius: 1vh;
+}
+
+.textArea{
+  background: #d1d1d1 ;
+}
+
+.backgroundImg{
+  position: absolute;
+  height:99vh ;
+  width: 99vw;
+  z-index: -1;
+}
+
+
